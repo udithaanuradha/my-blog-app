@@ -5,7 +5,7 @@
 define('DB_HOST', 'localhost');  
 define('DB_NAME', 'blog1.db');    // The database name you created
 define('DB_USER', 'uditha');       // Default XAMPP/WAMP username
-define('DB_PASS', 'Aveesha1234##');           // Default XAMPP/WAMP password (usually empty)
+define('DB_PASS', '');           // Default XAMPP/WAMP password (usually empty)
 
 $pdo = null; // Initialize the connection variable
 
